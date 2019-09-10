@@ -60,11 +60,3 @@ export class TodoItemComponent implements OnInit {
     this.deleteTodoId.emit(this.todoItem.id);
   }
 
-}
-  kkkk
-
-
-
-
-
-  ggg.,
